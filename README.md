@@ -18,7 +18,7 @@ In this class, we will walk through the fundamentals of web development in layma
 *   What is the World Wide Web?
 *   Where are web site files generally stored?
 *   What is the difference between a client and a server?
-*   Which programming languages are compiled on a server and which are compiled in a web browser?
+*   When is code run on a server and when it is run in a web browser?
 *   What do you need to know before building a web site?
 *   What language should you use and what are the differences?
 *   What tools do you need to develop a web site?
